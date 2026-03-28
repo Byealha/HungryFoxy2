@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=uNYK04AN9zs
 ● Unity 2D  
 &nbsp;- 타일맵 사용  
 &nbsp;- Physics2D.Raycast 기반 2D 물리 사용  
+<br>
+<br>
+:pushpin: **주요 기술 구현**  
 ● Coroutine  
 &nbsp;- 연출/로딩/페이드 처리  
 ● PlayerPrefs  

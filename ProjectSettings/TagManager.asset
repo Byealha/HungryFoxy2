@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Platforms
+  - Enemy
+  - Gem
+  - Cherry
+  - House
+  - DeadLine
+  - RespawnPoint
+  - Portal
+  - RunningClear
+  - RunningJump
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platforms
+  - PlatformsEffector
+  - Enemy
+  - EnemyDie
+  - Player
+  - PlayerDamaged
+  - Gem
+  - GemEat
+  - Cherry
+  - CherryEat
+  - PlayerDie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - RespawnPoint
+  - CameraSense
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
